@@ -1,23 +1,25 @@
 # 👋 Olá! Eu sou a Khyara Liz 🌙✨
-<img src="https://readme-typing-svg.herokuapp.com/?color=C0C9FF&size=25&center=true&vCenter=true&width=500&lines=Criatividade+%2B+Tecnologia;Futura+Designer+%F0%9F%8E%A8;Estudante+de+TI+%F0%9F%92%BB;Amante+da+Arte+%26+M%C3%BAsica+%F0%9F%8E%B6" />
 
-
+<img src="https://readme-typing-svg.herokuapp.com/?color=C0C9FF&size=25&center=true&vCenter=true&width=500&lines=Criatividade+%2B+Tecnologia;Futura+Designer+%F0%9F%8E%A8;Estudante+de+TI+%F0%9F%92%BB;Arte+e+M%C3%BAsica+%F0%9F%8E%B6" />
 
 ---
 
-## 🎯 Sobre mim
+<img src="https://capsule-render.vercel.app/api?type=wavy&height=150&color=0:0f172a,50:3c096c,100:6a0dad&section=header&text=Lunar+Dev&fontColor=C0C9FF&fontSize=40&animation=fadeIn"/>
 
-🎨 Quero seguir carreira em **Design Gráfico ou Animação**  
+---
+
+## 🌙 Sobre mim
+
+🎨 Futura **Designer Gráfica ou Animadora**  
 💻 Estudante de **TI (Desenvolvimento de Sistemas)**  
-✏️ Já fiz cursos de design e arte  
-🎶 Escrevo **poemas e músicas**  
-🎸 Quero aprender **guitarra**  
-🗣️ Melhorando minha comunicação  
-🖌️ Apaixonada por desenhar e criar  
+🎶 Criadora de **poemas e músicas**  
+🎸 Futuramente guitarrista 🎶  
+🗣️ Desenvolvendo minha comunicação  
+🖌️ Criando arte com sentimento  
 
 ---
 
-## 💻 Habilidades
+## 🌌 Habilidades
 
 ### 🌐 Desenvolvimento
 <div style="display: inline_block"><br>
@@ -25,28 +27,28 @@
   <img align="center" alt="JS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 </div>
 
-### ⚙️ Ferramentas & Sistemas
+### 🌑 Sistemas & Ferramentas
 <div style="display: inline_block"><br>
   <img align="center" alt="Linux" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
 
-💻 Experiência com:
+💻 Experiência com:  
 - 🐧 Linux  
 - 📦 VirtualBox  
-- ⚡ Prompt de comando  
-- 🖥️ Terminal  
+- ⚡ Terminal / Prompt  
+- 💻 Git  
 
 🧠 Lógica de Programação  
-🎨 Noções de Design  
+🎨 Design  
 
 ---
 
-## 🌱 Em desenvolvimento
+## 🌗 Em evolução
 
-📚 Aprimorando programação  
-🎨 Evoluindo no desenho  
-🗣️ Trabalhando minha confiança  
+🌱 Aprimorando programação  
+🎨 Evoluindo artisticamente  
+🗣️ Fortalecendo minha expressão  
 
 ---
 
@@ -62,15 +64,15 @@
 
 ## 🚀 Objetivo
 
-Quero unir **arte + tecnologia** para criar projetos visuais incríveis e experiências únicas ✨
+Unir **arte + tecnologia** para criar experiências visuais únicas, como fases da lua: sempre em transformação 🌙✨  
 
 ---
 
 ## 📊 Status GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=khyaranabeiro-hash&show_icons=true&theme=tokyonight&bg_color=0f172a&title_color=C0C9FF&icon_color=C0C9FF"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khyaranabeiro-hash&layout=compact&theme=tokyonight&bg_color=0f172a&title_color=C0C9FF"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=khyaranabeiro-hash&show_icons=true&theme=radical&bg_color=0f172a&title_color=C0C9FF&icon_color=9D4EDD"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khyaranabeiro-hash&layout=compact&theme=radical&bg_color=0f172a&title_color=C0C9FF"/>
 </div>
 
 ---
@@ -78,7 +80,7 @@ Quero unir **arte + tecnologia** para criar projetos visuais incríveis e experi
 ## 🔥 Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=khyaranabeiro-hash&theme=tokyonight&background=0f172a&ring=C0C9FF&fire=C0C9FF"/>
+  <img src="https://streak-stats.demolab.com?user=khyaranabeiro-hash&theme=radical&background=0f172a&ring=9D4EDD&fire=C0C9FF"/>
 </div>
 
 ---
@@ -86,12 +88,13 @@ Quero unir **arte + tecnologia** para criar projetos visuais incríveis e experi
 ## 🌐 Conecte-se comigo
 
 <div> 
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Instagram-6A0DAD?style=for-the-badge&logo=instagram&logoColor=C0C9FF"></a>
+  <a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/Instagram-6A0DAD?style=for-the-badge&logo=instagram&logoColor=C0C9FF"></a>
   <a href="mailto:khyara.santos@edu.senai.br" target="_blank"><img src="https://img.shields.io/badge/Email-6A0DAD?style=for-the-badge&logo=gmail&logoColor=C0C9FF"></a>
+  <a href="https://www.linkedin.com/in/khyara-liz-938b243b0/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=C0C9FF"></a>
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:3c096c,100:0f172a&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:3c096c,100:6a0dad&height=120&section=footer&animation=fadeIn"/>
 
-⭐ Obrigada por visitar meu perfil!  
+⭐ Obrigada por explorar meu universo 🌙  
