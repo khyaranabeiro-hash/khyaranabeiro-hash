@@ -1,7 +1,4 @@
 # 👋 Olá! Eu sou a Khyara Liz 🌙✨
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=180&section=header&text=Khyara Liz&fontSize=25&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
-
 <img src="https://readme-typing-svg.herokuapp.com/?color=C0C9FF&size=25&center=true&vCenter=true&width=500&lines=Criatividade+%2B+Tecnologia;Futura+Designer+%F0%9F%8E%A8;Estudante+de+TI+%F0%9F%92%BB;Amante+da+Arte+%26+M%C3%BAsica+%F0%9F%8E%B6" />
 
 
