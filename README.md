@@ -4,7 +4,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=wavy&height=150&color=0:0f172a,50:3c096c,100:6a0dad&section=header&text=Lunar+Dev&fontColor=C0C9FF&fontSize=40&animation=fadeIn"/>
+<img src=https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDU0MzdidHl3NDQ1MW41dW9jYjQ5cHp1N2tqdWFleTloamZ4ZnhuaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGcAIdekn4Y9gye4/giphy.gif/>
 
 ---
 
