@@ -74,15 +74,7 @@ Unir **arte + tecnologia** para criar experiências visuais únicas, como fases 
 
 <div align="center">
 
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=khyaranabeiro-hash&show_icons=true&theme=radical"
-  />
-
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=khyaranabeiro-hash&layout=compact&theme=radical"
-  />
+<img src="https://github-readme-stats.vercel.app/api?username=khyaranabeiro-hash&show_icons=true" width="400">
 
 </div>
 
