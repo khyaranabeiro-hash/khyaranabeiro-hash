@@ -74,9 +74,17 @@ Unir **arte + tecnologia** para criar experiências visuais únicas, como fases 
 ## 📊 Status GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=khyaranabeiro-hash&show_icons=true&theme=radical&bg_color=0f172a&title_color=C0C9FF&icon_color=9D4EDD&text_color=FFFFFF&include_all_commits=true&count_private=true"/>
-  
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khyaranabeiro-hash&layout=compact&theme=radical&bg_color=0f172a&title_color=C0C9FF&text_color=FFFFFF"/>
+
+<img 
+  height="160em" 
+  src="https://github-readme-stats.vercel.app/api?username=khyaranabeiro-hash&show_icons=true&theme=radical&bg_color=0f172a&title_color=C0C9FF&icon_color=9D4EDD&text_color=FFFFFF&include_all_commits=true&count_private=true"
+/>
+
+<img 
+  height="160em" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=khyaranabeiro-hash&layout=compact&theme=radical&bg_color=0f172a&title_color=C0C9FF&text_color=FFFFFF"
+/>
+
 </div>
 
 ---
@@ -84,7 +92,12 @@ Unir **arte + tecnologia** para criar experiências visuais únicas, como fases 
 ## 🔥 Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=khyaranabeiro-hash&theme=radical&background=0f172a&ring=9D4EDD&fire=C0C9FF&currStreakLabel=C0C9FF"/>
+
+<img 
+  src="https://streak-stats.demolab.com?user=khyaranabeiro-hash&theme=radical&background=0f172a&ring=9D4EDD&fire=C0C9FF&currStreakLabel=C0C9FF"
+  alt="GitHub Streak"
+/>
+
 </div>
 
 ---
@@ -92,17 +105,19 @@ Unir **arte + tecnologia** para criar experiências visuais únicas, como fases 
 ## 🌐 Conecte-se comigo
 
 <div>
-  <a href="https://www.instagram.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-6A0DAD?style=for-the-badge&logo=instagram&logoColor=C0C9FF">
-  </a>
 
-  <a href="mailto:khyara.santos@edu.senai.br">
-    <img src="https://img.shields.io/badge/Email-6A0DAD?style=for-the-badge&logo=gmail&logoColor=C0C9FF">
-  </a>
+<a href="https://www.instagram.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-6A0DAD?style=for-the-badge&logo=instagram&logoColor=C0C9FF">
+</a>
 
-  <a href="https://www.linkedin.com/in/khyara-liz-938b243b0/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=C0C9FF">
-  </a>
+<a href="mailto:khyara.santos@edu.senai.br">
+  <img src="https://img.shields.io/badge/Email-6A0DAD?style=for-the-badge&logo=gmail&logoColor=C0C9FF">
+</a>
+
+<a href="https://www.linkedin.com/in/khyara-liz-938b243b0/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=C0C9FF">
+</a>
+
 </div>
 
 ---
