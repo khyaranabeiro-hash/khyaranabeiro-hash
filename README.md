@@ -71,8 +71,6 @@ Unir **arte + tecnologia** para criar experiências visuais únicas, como fases 
 
 ---
 
-## 📊 Status GitHub
-
 <div align="center">
 
   <img
@@ -86,6 +84,7 @@ Unir **arte + tecnologia** para criar experiências visuais únicas, como fases 
   />
 
 </div>
+
 ## 🔥 Streak
 
 <div align="center">
