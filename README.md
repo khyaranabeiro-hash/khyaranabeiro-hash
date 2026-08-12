@@ -70,18 +70,19 @@
 Unir **arte + tecnologia** para criar experiências visuais únicas, como fases da lua: sempre em transformação 🌙✨  
 
 ---
+## 📊 Status GitHub
 
 <div align="center">
 
-  <img
-    height="160em"
-    src="https://github-readme-stats.vercel.app/api?username=khyaranabeiro-hash&show_icons=true&theme=radical&bg_color=0f172a&title_color=C0C9FF&icon_color=9D4EDD&text_color=FFFFFF&include_all_commits=true&count_private=true"
-  />
+<img
+ height="160em"
+ src="https://github-readme-stats.vercel.app/api?username=khyaranabeiro-hash&show_icons=true&theme=radical&bg_color=0f172a&title_color=C0C9FF&icon_color=9D4EDD&text_color=FFFFFF&include_all_commits=true&count_private=true"
+/>
 
-  <img
-    height="160em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=khyaranabeiro-hash&layout=compact&theme=radical&bg_color=0f172a&title_color=C0C9FF&text_color=FFFFFF"
-  />
+<img
+ height="160em"
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=khyaranabeiro-hash&layout=compact&theme=radical&bg_color=0f172a&title_color=C0C9FF&text_color=FFFFFF"
+/>
 
 </div>
 
