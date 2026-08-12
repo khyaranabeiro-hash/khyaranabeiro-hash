@@ -71,22 +71,6 @@ Unir **arte + tecnologia** para criar experiências visuais únicas, como fases 
 
 ---
 
-## 📊 Status GitHub
-
-<div align="center">
-
-<a href="https://github.com/khyaranabeiro-hash">
-  <img src="https://img.shields.io/badge/GitHub-khyaranabeiro--hash-6A0DAD?style=for-the-badge&logo=github&logoColor=C0C9FF" alt="GitHub">
-</a>
-
-<a href="https://github.com/khyaranabeiro-hash?tab=repositories">
-  <img src="https://img.shields.io/badge/Reposit%C3%B3rios-GitHub-6A0DAD?style=for-the-badge&logo=github&logoColor=C0C9FF" alt="Repositórios">
-</a>
-
-</div>
-
----
-
 ## 🔥 Streak
 
 <div align="center">
