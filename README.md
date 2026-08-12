@@ -10,12 +10,12 @@
 
 ## 🌙 Sobre mim
 
-🎨 Futura **Designer Gráfica ou Animadora**  
-💻 Estudante de **TI (Desenvolvimento de Sistemas)**  
-🎶 Criadora de **poemas e músicas**  
-🎸 Futuramente guitarrista 🎶  
-🗣️ Desenvolvendo minha comunicação  
-🖌️ Criando arte com sentimento  
+🎨 Futura **Designer Gráfica ou Animadora**
+💻 Estudante de **TI (Desenvolvimento de Sistemas)**
+🎶 Criadora de **poemas e músicas**
+🎸 Futuramente guitarrista 🎶
+🗣️ Desenvolvendo minha comunicação
+🖌️ Criando arte com sentimento
 
 ---
 
@@ -37,62 +37,63 @@
 
 💻 Experiência com:
 
-- 🐧 Linux
-- 📦 VirtualBox
-- ⚡ Terminal / Prompt
-- 💻 Git
+* 🐧 Linux
+* 📦 VirtualBox
+* ⚡ Terminal / Prompt
+* 💻 Git
 
-🧠 Lógica de Programação  
-🎨 Design  
+🧠 Lógica de Programação
+🎨 Design
 
 ---
 
 ## 🌗 Em evolução
 
-🌱 Aprimorando programação  
-🎨 Evoluindo artisticamente  
-🗣️ Fortalecendo minha expressão  
+🌱 Aprimorando programação
+🎨 Evoluindo artisticamente
+🗣️ Fortalecendo minha expressão
 
 ---
 
 ## ✨ Interesses
 
-🎨 Design Digital  
-🎬 Animação  
-🎵 Música  
-✍️ Escrita criativa  
-💻 Tecnologia  
+🎨 Design Digital
+🎬 Animação
+🎵 Música
+✍️ Escrita criativa
+💻 Tecnologia
 
 ---
 
 ## 🚀 Objetivo
 
-Unir **arte + tecnologia** para criar experiências visuais únicas, como fases da lua: sempre em transformação 🌙✨  
+Unir **arte + tecnologia** para criar experiências visuais únicas, como fases da lua: sempre em transformação 🌙✨
 
 ---
+
 ## 📊 Status GitHub
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=khyaranabeiro-hash&show_icons=true&theme=radical"
-  width="400"
-/>
+<a href="https://github.com/khyaranabeiro-hash">
+  <img src="https://img.shields.io/badge/GitHub-khyaranabeiro--hash-6A0DAD?style=for-the-badge&logo=github&logoColor=C0C9FF" alt="GitHub">
+</a>
 
-<img
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=khyaranabeiro-hash&layout=compact&theme=radical"
-  width="400"
-/>
+<a href="https://github.com/khyaranabeiro-hash?tab=repositories">
+  <img src="https://img.shields.io/badge/Reposit%C3%B3rios-GitHub-6A0DAD?style=for-the-badge&logo=github&logoColor=C0C9FF" alt="Repositórios">
+</a>
 
 </div>
+
+---
 
 ## 🔥 Streak
 
 <div align="center">
 
 <img 
-  src="https://streak-stats.demolab.com?user=khyaranabeiro-hash&theme=radical&background=0f172a&ring=9D4EDD&fire=C0C9FF&currStreakLabel=C0C9FF"
-  alt="GitHub Streak"
+src="https://streak-stats.demolab.com?user=khyaranabeiro-hash&theme=radical&background=0f172a&ring=9D4EDD&fire=C0C9FF&currStreakLabel=C0C9FF"
+alt="GitHub Streak"
 />
 
 </div>
@@ -122,3 +123,4 @@ Unir **arte + tecnologia** para criar experiências visuais únicas, como fases 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:3c096c,100:6a0dad&height=120&section=footer&animation=fadeIn"/>
 
 ⭐ Obrigada por explorar meu universo 🌙
+
